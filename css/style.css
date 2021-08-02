@@ -1,0 +1,157 @@
+.topContainer{
+    background-color: #caf0f8;
+    padding: 120px 0px 0px 0px;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.name{
+    margin-top: 0px;
+    font-family: 'Great Vibes', cursive;
+    margin-block-end: 0px;
+    font-size: 3.5rem;
+    margin-top: 50px;
+    color: #00b4d8;
+}
+
+.webDeveloper{
+    color:#00b4d8;
+    font-weight: normal;
+}
+
+h2{
+    font-size: 1.5rem;
+    color: #00b4d8;
+}
+
+h3{
+    color: #48cae4;
+}
+
+p{
+    margin-block-start: 0px;
+}
+
+
+
+.cloud{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+
+.cloud1{
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+
+.img1 {
+    width: 30%;
+    float: left;
+    margin-right: 50px;
+}
+
+.dhaval{
+    height: 200px;
+    width: 200px;
+}
+
+.chillies{
+    width: 30%;
+    float: right;
+    margin-left: 50px;;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding: 15px;
+}
+
+.dhaval{
+    position: relative;
+    top: 50px;
+}
+
+.p2{
+    margin-bottom: 70px;
+}
+
+.skillsHeading{
+    margin-top: 70px;
+    font-size: 40px;
+}
+
+.hr1, .hr2 {
+    border-style: dotted none none;
+    width: 5%;
+    border-color: #acb0b0;
+    border-width: 5px;
+    
+}
+
+.p3{
+    margin-bottom: 70px;
+}
+
+.contactHeading{
+    margin-top: 70px;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.p4{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.btn{
+    background-color: #88FFF7;
+    border: none;
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+    margin-bottom: 40px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.btn:hover{
+    background-color:black;
+    color: white;
+}
+
+.bottom-container{
+    background-color: #caf0f8;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.p5{
+    margin-top: 40px;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #00b4d8;
+    padding: 0px 20px;
+}
+
+.footer-link:hover{
+    color:black;
+}
+
+.mountain{
+    position: relative;
+    bottom: 1px;
+}
